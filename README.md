@@ -70,7 +70,3 @@ Q6: You did not mention that the domain feasibility constraint only holds for fe
 Missing a nabla in the last two lines.
 14/15
 
-## Assignment4
-Feedback❌
-## Assignment5
-Feedback❌
