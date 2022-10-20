@@ -70,3 +70,23 @@ Q6: You did not mention that the domain feasibility constraint only holds for fe
 Missing a nabla in the last two lines.
 14/15
 
+## Assignment4
+63/100
+
+Q1: (b) The  last row is unclear. You need a bit more justification because page 281 only talks about the weak max-min ineq. (d) You need to prove for all arbitrary norms, not for all arbitrary p-norm.
+
+
+
+Q2 a,b: (a,b) Please show steps or alternatively, cite your source (e.g., the textbook).
+
+
+
+Q2(c,d): -3: c lack process. -5: d.
+
+
+
+Q3: Proved the hint correctly. 3a: need to explain why it unbounded below otherwise (-2). 3b: |x|>1 is unbounded only for |v_i|>2, you need to show this and also that it is less than 1/4 v_i^2 when |v_i|<=2, |x|>1 (-3). 3c: should explain the last step more, -2. 23/30
+
+
+
+Q4: you also need to show that the problem is convex; incorrect answer to a star and b star
