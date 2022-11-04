@@ -90,3 +90,12 @@ Q3: Proved the hint correctly. 3a: need to explain why it unbounded below otherw
 
 
 Q4: you also need to show that the problem is convex; incorrect answer to a star and b star
+
+## Assignment4
+91.5/100
+
+Q1: a: Need derivation -8. b: Great. c: hessian seems to give wrong answer numerially: not sure where the bug is, implementation is of merit (-0.5). rest: good
+
+Q2: 
+
+Q3: 20/20
