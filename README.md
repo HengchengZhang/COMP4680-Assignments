@@ -99,3 +99,13 @@ Q1: a: Need derivation -8. b: Great. c: hessian seems to give wrong answer numer
 Q2: 
 
 Q3: 20/20
+
+## Assignment5
+84/100
+
+Q1: (1.2.1) Why can SGD escape from local minima?
+(1.2.2) A bit more conceptual difference of adagrad is needed. For example, how does adagrad adapt the learning rates to the parameters?
+(1.2.3) Storage is also another problem for second-order methods.
+(1.3) The effect of batch size and of initial point is unclear in your answer.
+
+Q2: Wrong number of parameters, should be 32832+128+4160+128+195 = 37443 (-3). (d) no improvement (-3). 54/60
