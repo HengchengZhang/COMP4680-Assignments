@@ -100,7 +100,7 @@ Q2:
 
 Q3: 20/20
 
-## Assignment5
+## Assignment6
 84/100
 
 Q1: (1.2.1) Why can SGD escape from local minima?
